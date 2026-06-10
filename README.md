@@ -57,7 +57,7 @@ The goal of this project was to combine **objective statistical analysis** with 
 
 A ranked bar chart was created to identify the era's most productive players based on combined scoring, rebounding, and playmaking output.
 
-[![PRA Bar Chart](figures/pra_bar_chart.png)](https://github.com/gregbeard1/nba-mount-rushmore-2004-2025/blob/407764d552082d962afc5e151b76911b9e8dc707/Top%2015%20Modern%20NBA%20Players%20PRA.png)
+https://github.com/gregbeard1/nba-mount-rushmore-2004-2025/blob/b3fd280bf3d206ab4e57d00c9622c8928c483fbd/Top%2015%20Modern%20NBA%20Players%20PRA.png
 
 ### Efficiency vs. Scoring
 
