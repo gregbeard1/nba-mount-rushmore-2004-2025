@@ -107,5 +107,3 @@ These selections were based on a combination of:
 * Sports Analytics
 * Statistical Reasoning
 * Storytelling with Data
-
-Aspiring sports analyst with interests in basketball analytics, predictive modeling, and using data to support decision-making in sports.
