@@ -69,8 +69,8 @@ A scatter plot comparing:
 This visualization highlighted players who paired elite scoring volume with exceptional efficiency.
 
 
-Scatterplot: Efficiency vs Scoring.png
 
+Efficiency_vs_Scoring.png
 ---
 
 ## Final Mount Rushmore (2004–2025)
