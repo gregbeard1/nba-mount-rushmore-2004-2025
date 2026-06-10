@@ -69,7 +69,7 @@ A scatter plot comparing:
 This visualization highlighted players who paired elite scoring volume with exceptional efficiency.
 
 
-![Efficiency vs Scoring Scatter Plot](figures/Scatterplot: Efficiency vs Scoring.png)
+Scatterplot: Efficiency vs Scoring.png
 
 ---
 
