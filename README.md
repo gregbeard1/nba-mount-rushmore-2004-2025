@@ -68,9 +68,8 @@ A scatter plot comparing:
 
 This visualization highlighted players who paired elite scoring volume with exceptional efficiency.
 
+https://github.com/gregbeard1/nba-mount-rushmore-2004-2025/blob/eb4081cc1ce5795177a06e637bfb3c0ae11a33b6/Efficiency_vs_Scoring.png
 
-
-Efficiency_vs_Scoring.png
 ---
 
 ## Final Mount Rushmore (2004–2025)
