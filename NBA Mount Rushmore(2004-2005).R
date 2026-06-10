@@ -79,9 +79,3 @@ ggplot(top_scorers, aes(x = ppg, y = ts)) +
     y = "True Shooting % (at least 56%)"
   ) +
   theme_minimal()
-
-
--Finalize description for project on wix website
--Add photos of presentation
--Create GitHub
--Create blog post for it
